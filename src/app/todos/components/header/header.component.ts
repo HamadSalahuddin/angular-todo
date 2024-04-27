@@ -1,5 +1,5 @@
 import { Component } from "@angular/core";
-import { TodoService } from "../../services/todos.service";
+import { TodoService } from "src/app/todos/services/todos.service";
 
 @Component({
   selector: 'app-todos-header',
